@@ -1,4 +1,4 @@
-# BouncinBalls
+# Bouncing Balls
 Overview
 This project is a web-based simulation of bouncing balls using HTML, CSS, and JavaScript. It creates multiple colorful balls that move around the screen, bouncing off the edges of the browser window.
 
